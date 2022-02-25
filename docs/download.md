@@ -27,3 +27,4 @@ This guide will teach you how to download and install Pandoc.
      <figcaption> Image of the Terminal after using "pandoc -v" command. 
 
 Back to [the home page](../index.html)
+{% include footer.md %}
