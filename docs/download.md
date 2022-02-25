@@ -13,7 +13,7 @@ This guide will teach you how to download and install Pandoc.
       <figcaption> Image of Pandoc installation page. </figcaption> </figure>
 2.  Click on the "Download the latest installer for macOS" blue button. The Pandoc installer will appear at the bottom of your screen. 
     <figure> <img src="images/pandoc-install-bottom-of-screen.png"> 
-     <figcaption> Imagee of installer at the bottom of the screen. </figcaption> </figure>
+     <figcaption> Image of installer at the bottom of the screen. </figcaption> </figure>
 3. Click the package icon to open the installer. The installer will open in a new window on your computer.
    <figure> <img src="images/pandoc-installer.png"> 
    <figcaption> Image of installation window. </figure>
