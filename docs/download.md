@@ -26,4 +26,4 @@ This guide will teach you how to download and install Pandoc.
      <figure> <img src="images../../../images/pandoc-v.png"> </img>
      <figcaption> Image of the Terminal after using "pandoc -v" command. </figure>
 
-{% include footer.md %}
+{% include footer. %}
