@@ -32,4 +32,4 @@ This guide will allow you to change Word documents to Markdown files using Pando
    <figure> <img src="images/md-created-by-pandoc.png">
     <figcaption> Image of the Markdown file created using the Pandoc code. </figcaption> 
 
-Back to [the home page](../index.html)
+Back to [the home page](index.md)
