@@ -8,7 +8,7 @@ This guide will allow you to change Markdown files to Word documents using Pando
 - Markdown File 
 
 ## Directions 
-1. Save your Markdown file in a document folder on your computer. Your document must have at least one sentence of text.
+1. Save your Markdown file in a document folder on your computer. Your Markdown file must have at least one sentence of text.
    -  `NOTE:` Your Markdown file cannot have any spaces. An example could be "markdown-file-1.md"
 2. Using the Finder application, locate your document folder. 
    <figure>
