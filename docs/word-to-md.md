@@ -11,11 +11,11 @@ This guide will allow you to change Word documents to Markdown files using Pando
 1. Save your Word document file in a document folder on your computer. Your document must have at least one sentence of text.
    -  `NOTE:` Your Word doc file cannot have any spaces. An example could be "word-file-1.docx"
 2. Using the Finder application, locate your document folder. 
-   <figure> <img src="images/word-doc-in-folder-to-convert.png"> </img>
+   <figure> <img src="images/word-doc-in-folder-to-convert.png"> 
     <figcaption> Image of file in file folder. </figcaption> 
 
 3. Select 'View' on Finder's control panel, then click 'Show Path Bar.' This will reveal a path bar at the bottom of the Finder screen. 
-   <figure> <img src="images/file-path-word-to-md.png"> </img>
+   <figure> <img src="images/file-path-word-to-md.png"> 
    <figcaption> Image of Path Bar at the bottom of the Finder application. </figcaption> 
 4. Open the Terminal app. 
 5. Type "cd " into the Terminal, then drag your folder from the Path Bar into the terminal.
